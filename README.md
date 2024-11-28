@@ -30,11 +30,8 @@ The dataset used in this project is the **Synthetic Financial Datasets For Fraud
 ### 2. **Models Implemented**
 - **Logistic Regression (LR)**
 - **Decision Tree (DT)**
-- **Random Forest (RF)**
 - **XGBoost (XGB)**
-- **LightGBM (LGB)**
 - **Naive Bayes (NB)**
-- **Support Vector Machine (SVM)**
 
 ### 3. **Performance Metrics**
 - The models are evaluated using the following metrics:
